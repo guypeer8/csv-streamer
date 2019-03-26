@@ -1,0 +1,26 @@
+gender,d1,p1,app_name,mime_type,n1,cc
+Male,0,2,Toughjoyfax,image/pjpeg,23.5,US
+Male,0,3,Pannier,application/msword,1.2,GB
+Male,0,3,Treeflex,application/x-excel,3.3,FR
+Female,1,4,Fintone,application/msword,8.4,US
+Female,1,7,Mat Lam Tam,application/x-troff-msvideo,10.9,US
+Male,1,3,Matsoft,application/pdf,13.6,FR
+Female,1,2,Span,image/jpeg,2.1,FR
+Male,1,0,Rank,audio/x-mpeg-3,14.5,US
+Male,1,0,Asoka,video/x-msvideo,21.1,FR
+Male,1,4,Kanlam,video/quicktime,23.2,FR
+Female,1,5,Sub-Ex,video/quicktime,15.7,US
+Male,1,8,Duobam,image/gif,9.4,FR
+Male,1,1,Job,application/x-mspowerpoint,3.7,US
+Male,1,5,Overhold,application/x-msexcel,17.4,US
+Male,1,2,Voltsillam,application/msword,21.7,FR
+Male,1,3,Daltfresh,image/pjpeg,12.0,FR
+Female,1,3,Voyatouch,audio/mpeg3,22.0,FR
+Female,0,2,Sonair,text/plain,9.1,IL
+Female,1,2,Redhold,image/x-tiff,9.5,DE
+Male,1,7,Sonsing,application/powerpoint,1.6,FR
+Female,0,2,Fintone,text/plain,18.2,GB
+Female,0,4,Y-find,image/pjpeg,5.1,FR
+Male,1,1,Lotstring,video/avi,19.4,FR
+Female,0,4,Otcom,video/mpeg,11.4,US
+Female,1,2,Cardguard,image/gif,20.0,IL

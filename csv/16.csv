@@ -1,0 +1,25 @@
+gender,d1,p1,app_name,mime_type,n1,cc
+Female,1,8,Lotlux,application/vnd.ms-excel,6.7,FR
+Female,1,3,It,video/mpeg,18.1,GB
+Male,1,4,Fixflex,video/mpeg,23.2,US
+Male,0,3,Transcof,application/powerpoint,16.3,FR
+Male,1,4,Subin,image/png,16.6,FR
+Male,0,5,Ronstring,image/pjpeg,24.1,FR
+Male,1,4,Matsoft,application/pdf,9.3,FR
+Female,0,0,Tres-Zap,image/tiff,18.9,FR
+Male,0,3,Fixflex,application/excel,5.7,FR
+Female,0,6,Keylex,application/msword,8.9,FR
+Female,1,3,Daltfresh,application/x-excel,8.0,FR
+Female,0,5,Regrant,video/x-mpeg,1.7,US
+Male,0,1,Y-find,video/x-msvideo,1.6,US
+Female,1,4,Asoka,image/pjpeg,6.5,FR
+Male,0,2,Tampflex,audio/mpeg3,3.5,FR
+Male,0,4,Andalax,application/vnd.ms-excel,21.3,FR
+Female,0,1,Y-find,application/vnd.ms-excel,4.2,US
+Male,1,2,Zontrax,application/x-excel,13.4,FR
+Female,1,5,Mat Lam Tam,application/msword,13.4,US
+Male,0,0,Trippledex,application/x-excel,17.8,US
+Female,0,0,Bitchip,application/x-excel,7.5,US
+Female,1,3,Greenlam,application/vnd.ms-powerpoint,24.5,US
+Male,1,3,Biodex,image/jpeg,9.7,FR
+Female,1,2,Daltfresh,application/x-troff-msvideo,5.3,DE

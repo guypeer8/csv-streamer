@@ -1,0 +1,25 @@
+gender,d1,p1,app_name,mime_type,n1,cc
+Male,1,4,Matsoft,audio/x-mpeg-3,23.4,FR
+Male,0,1,Stronghold,application/vnd.ms-powerpoint,4.4,DE
+Male,1,1,Domainer,image/pjpeg,14.0,US
+Female,0,1,Bigtax,application/powerpoint,16.2,FR
+Male,1,6,Job,video/x-mpeg,1.6,US
+Female,0,7,Viva,application/pdf,4.6,US
+Female,1,5,Prodder,video/msvideo,11.3,FR
+Female,0,5,Hatity,application/x-excel,24.5,FR
+Male,0,3,Overhold,video/avi,7.5,US
+Male,1,4,Namfix,video/mpeg,8.6,US
+Male,1,7,Sonsing,application/powerpoint,2.2,DE
+Male,1,5,Sonair,application/vnd.ms-powerpoint,5.5,US
+Female,0,1,Fix San,application/x-msexcel,21.9,FR
+Female,0,6,Daltfresh,video/quicktime,14.6,FR
+Male,0,4,Alpha,image/jpeg,21.7,US
+Female,1,2,Bigtax,application/excel,11.8,US
+Male,1,0,Hatity,application/x-mspowerpoint,24.7,GB
+Female,0,4,Zontrax,image/pjpeg,2.1,US
+Female,1,5,Y-find,video/x-mpeg,8.3,FR
+Female,1,1,Keylex,audio/mpeg3,20.4,FR
+Female,0,1,Bamity,video/quicktime,7.5,FR
+Female,0,7,Bamity,application/x-troff-msvideo,18.9,FR
+Male,0,5,Treeflex,application/x-mspowerpoint,7.7,US
+Male,1,4,Sonair,application/x-msexcel,13.3,FR

@@ -1,0 +1,25 @@
+gender,d1,p1,app_name,mime_type,n1,cc
+Male,0,4,Home Ing,application/vnd.ms-powerpoint,17.0,US
+Male,0,3,Alphazap,application/vnd.ms-excel,8.9,FR
+Male,1,4,Biodex,image/jpeg,23.2,US
+Male,1,4,Sub-Ex,video/mpeg,9.8,DE
+Male,1,5,Flowdesk,image/gif,2.1,FR
+Female,1,2,Bitchip,video/x-mpeg,4.9,FR
+Female,0,1,Pannier,video/mpeg,24.4,FR
+Female,0,0,Bitwolf,application/powerpoint,2.1,FR
+Female,0,4,Rank,audio/mpeg3,20.5,FR
+Female,0,6,Greenlam,image/png,12.3,FR
+Male,1,5,Viva,audio/x-mpeg-3,3.8,US
+Male,0,2,Alpha,application/vnd.ms-excel,9.6,FR
+Male,0,4,Overhold,application/powerpoint,20.8,US
+Female,0,1,Transcof,image/png,14.1,FR
+Female,1,3,Holdlamis,application/vnd.ms-excel,4.1,FR
+Male,1,5,Tresom,video/x-mpeg,24.2,US
+Female,0,1,Hatity,application/pdf,5.5,US
+Female,1,3,Sonair,video/quicktime,12.8,DE
+Female,0,2,Bytecard,image/png,13.2,DE
+Female,0,7,Matsoft,application/mspowerpoint,10.8,US
+Male,1,6,Home Ing,application/vnd.ms-excel,6.8,FR
+Female,1,0,Job,application/x-troff-msvideo,14.0,US
+Female,0,4,Matsoft,video/msvideo,24.9,FR
+Male,1,2,Flowdesk,video/quicktime,14.0,FR

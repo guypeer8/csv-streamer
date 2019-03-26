@@ -1,0 +1,24 @@
+gender,d1,p1,app_name,mime_type,n1,cc
+Male,0,2,Stringtough,image/jpeg,18.7,FR
+Male,1,1,Treeflex,text/plain,5.0,US
+Male,0,2,Bigtax,application/x-troff-msvideo,5.0,US
+Female,0,2,Y-find,video/quicktime,8.6,FR
+Male,1,3,Matsoft,application/x-mspowerpoint,3.0,US
+Male,0,3,Regrant,application/vnd.ms-powerpoint,9.3,FR
+Male,1,1,Opela,video/avi,3.4,FR
+Female,0,5,Treeflex,video/x-msvideo,10.6,US
+Male,0,2,Y-Solowarm,application/mspowerpoint,14.8,FR
+Female,1,0,Tampflex,application/mspowerpoint,2.8,FR
+Female,0,2,Tin,application/x-troff-msvideo,10.3,US
+Male,1,3,Bytecard,application/vnd.ms-excel,17.1,FR
+Male,0,0,Mat Lam Tam,video/x-mpeg,24.1,US
+Female,0,1,Asoka,video/msvideo,2.9,FR
+Female,0,2,Opela,audio/x-mpeg-3,22.2,US
+Male,1,5,Cardify,application/x-excel,16.2,US
+Male,0,3,Tempsoft,video/x-msvideo,22.3,US
+Female,0,5,Zoolab,image/x-tiff,5.2,FR
+Male,1,5,Voyatouch,audio/x-mpeg-3,8.8,FR
+Female,0,3,Zaam-Dox,application/pdf,5.2,FR
+Male,1,5,Solarbreeze,audio/x-mpeg-3,23.7,US
+Female,1,1,Greenlam,application/x-msexcel,1.6,FR
+Female,0,2,It,application/x-msexcel,9.6,US

@@ -1,0 +1,19 @@
+{
+  "name": "csv-write",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "app-root-dir": "^1.0.2",
+    "async-map": "^0.2.0",
+    "filter-async": "^1.0.0",
+    "sequelize": "^5.1.0",
+    "sqlite3": "^4.0.6"
+  }
+}

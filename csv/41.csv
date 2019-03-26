@@ -1,0 +1,26 @@
+gender,d1,p1,app_name,mime_type,n1,cc
+Male,0,3,Tin,application/x-msexcel,19.5,FR
+Male,1,3,Fintone,video/msvideo,17.8,FR
+Male,1,3,Biodex,application/excel,2.3,US
+Female,1,2,Mat Lam Tam,video/x-mpeg,16.1,FR
+Female,1,5,Y-Solowarm,image/tiff,2.8,FR
+Female,0,3,Gembucket,image/png,21.9,FR
+Male,1,1,Wrapsafe,application/x-excel,7.6,US
+Male,1,4,Duobam,application/x-excel,24.2,FR
+Male,0,1,Sonair,image/pjpeg,7.4,US
+Female,0,4,Tampflex,application/x-excel,19.4,DE
+Male,1,2,Prodder,video/mpeg,22.2,IT
+Female,0,0,Konklux,image/gif,2.6,FR
+Female,1,2,Voyatouch,image/pjpeg,6.5,FR
+Male,1,3,Quo Lux,application/excel,10.2,US
+Male,0,3,Ronstring,audio/mpeg3,5.5,IL
+Male,0,4,Namfix,image/gif,11.2,FR
+Male,0,2,Fintone,application/vnd.ms-excel,23.6,GB
+Male,1,3,Job,image/tiff,14.0,FR
+Female,0,0,It,video/x-msvideo,18.8,US
+Male,1,1,Otcom,application/x-mspowerpoint,22.1,US
+Male,0,2,Redhold,video/msvideo,4.4,US
+Female,1,2,Lotstring,application/vnd.ms-powerpoint,4.2,US
+Female,1,3,Zamit,image/pjpeg,7.4,US
+Male,1,2,Subin,application/excel,10.3,US
+Male,0,4,Alpha,image/jpeg,21.7,US

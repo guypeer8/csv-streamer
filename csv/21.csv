@@ -1,0 +1,25 @@
+gender,d1,p1,app_name,mime_type,n1,cc
+Male,1,4,Namfix,image/pjpeg,10.2,FR
+Female,1,3,Treeflex,image/pjpeg,13.6,FR
+Male,1,2,Tresom,image/png,1.5,DE
+Male,0,2,Tresom,application/mspowerpoint,17.5,US
+Male,1,2,Mat Lam Tam,audio/x-mpeg-3,21.0,FR
+Male,0,2,Otcom,application/x-troff-msvideo,17.8,FR
+Male,1,1,Lotlux,application/vnd.ms-powerpoint,4.5,US
+Male,1,1,Namfix,audio/x-mpeg-3,4.2,IL
+Female,0,1,Ventosanzap,video/mpeg,23.2,US
+Female,1,1,Voyatouch,video/x-msvideo,22.8,GB
+Female,1,2,Temp,video/quicktime,15.8,US
+Female,1,5,Fix San,image/jpeg,21.4,FR
+Male,0,5,Overhold,application/vnd.ms-powerpoint,13.8,US
+Male,0,3,Konklab,image/tiff,19.8,FR
+Female,1,1,Span,application/x-troff-msvideo,5.6,US
+Male,1,5,Pannier,application/x-mspowerpoint,19.2,FR
+Female,0,3,Ronstring,application/pdf,9.4,FR
+Female,0,2,Bytecard,video/msvideo,5.3,US
+Female,1,0,Keylex,text/plain,12.9,FR
+Female,1,1,Tampflex,application/x-mspowerpoint,7.7,FR
+Male,1,7,Prodder,application/excel,17.0,US
+Male,0,1,Domainer,text/plain,4.0,US
+Male,1,4,Tampflex,application/excel,24.2,FR
+Male,0,3,Hatity,application/mspowerpoint,11.3,FR

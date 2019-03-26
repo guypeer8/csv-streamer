@@ -1,0 +1,26 @@
+gender,d1,p1,app_name,mime_type,n1,cc
+Male,0,2,Sub-Ex,video/avi,4.6,DE
+Female,1,4,Konklab,image/png,8.9,FR
+Male,1,4,Bytecard,text/plain,8.3,US
+Female,0,3,Solarbreeze,audio/mpeg3,19.3,US
+Male,1,7,Zaam-Dox,video/x-mpeg,16.9,US
+Female,0,3,Holdlamis,image/jpeg,17.3,US
+Female,1,3,Lotlux,application/x-excel,11.1,FR
+Female,1,1,Home Ing,video/mpeg,7.7,FR
+Female,1,3,Treeflex,application/x-excel,10.7,US
+Female,0,0,Lotstring,application/vnd.ms-powerpoint,6.3,US
+Female,1,3,Home Ing,text/plain,18.0,FR
+Male,0,5,Zontrax,image/tiff,24.9,FR
+Male,1,2,Tres-Zap,video/x-msvideo,24.3,US
+Male,1,5,Viva,image/tiff,13.4,IT
+Female,1,3,Greenlam,application/vnd.ms-excel,23.7,US
+Male,0,2,Bitwolf,text/plain,10.1,US
+Female,0,3,Lotstring,video/avi,13.2,FR
+Male,1,5,Stim,application/vnd.ms-powerpoint,23.7,US
+Female,1,1,Kanlam,image/jpeg,6.3,FR
+Female,0,6,Voltsillam,application/x-msexcel,9.5,FR
+Male,0,2,Latlux,video/avi,12.2,DE
+Female,1,2,Vagram,image/jpeg,14.6,FR
+Male,1,1,Y-find,text/plain,24.7,FR
+Female,1,2,Keylex,application/mspowerpoint,18.7,FR
+Male,1,4,Zoolab,application/x-excel,8.6,US

@@ -1,0 +1,25 @@
+gender,d1,p1,app_name,mime_type,n1,cc
+Male,1,1,Matsoft,video/mpeg,15.7,US
+Female,0,3,Temp,application/excel,10.9,US
+Female,0,1,Bamity,video/quicktime,7.5,FR
+Male,1,1,Sonsing,image/x-tiff,14.1,FR
+Male,0,9,Subin,video/quicktime,1.2,FR
+Male,0,4,Asoka,application/x-mspowerpoint,20.5,US
+Female,1,8,Cardguard,application/pdf,7.3,FR
+Female,0,1,Kanlam,video/avi,19.4,FR
+Male,0,3,Zoolab,application/x-msexcel,9.5,FR
+Male,1,7,Alphazap,application/x-mspowerpoint,8.4,US
+Male,1,2,Regrant,image/x-tiff,18.5,US
+Male,1,5,Duobam,image/gif,10.5,US
+Male,1,3,Mat Lam Tam,application/powerpoint,11.0,FR
+Male,0,3,Cardguard,application/excel,21.4,US
+Female,0,2,Y-find,application/vnd.ms-powerpoint,1.2,GB
+Female,1,2,Tin,application/powerpoint,19.6,US
+Female,1,2,Tres-Zap,image/pjpeg,24.3,FR
+Male,1,4,Daltfresh,application/vnd.ms-excel,10.7,US
+Male,0,4,Treeflex,application/vnd.ms-excel,24.4,FR
+Male,0,6,Zamit,application/x-excel,13.1,FR
+Female,0,1,Sonair,application/vnd.ms-excel,4.0,FR
+Female,1,3,Job,video/avi,24.7,IT
+Male,0,4,Overhold,text/plain,24.1,FR
+Female,1,4,Greenlam,application/x-troff-msvideo,7.0,FR
