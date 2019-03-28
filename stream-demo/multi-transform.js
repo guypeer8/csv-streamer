@@ -1,8 +1,8 @@
-const { Transform: MultiTransform } = require('stream');
+const { Transform } = require('stream');
 
 console.warn('say something I want to multiply you\n');
 
-const breaker = new MultiTransform({
+const breaker = new Transform({
     readableObjectMode: true,
     transform(chunk, encoding, callback) {
         const [array, factor] = chunk
@@ -18,12 +18,12 @@ const breaker = new MultiTransform({
     },
 });
 
-const multiarray = new MultiTransform({
+const multiarray = new Transform({
     writableObjectMode: true,
     transform(chunk, encoding, callback) {
         const { factor, array } = chunk;
         const multi = array.map(num => Number(num * factor));
-        this.push('= ' + multi.toString() + '\n');
+        this.push(`= ${multi}\n`);
         callback();
     },
 });

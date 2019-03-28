@@ -7,7 +7,7 @@ let num = 0;
 const adder = new Transform({
     transform(chunk, encoding, callback) {
         num += Number(chunk.toString().trim());
-        this.push('= ' + num.toString() + '\n');
+        this.push(`= ${num} \n`);
         callback();
     },
 });
