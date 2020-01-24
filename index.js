@@ -10,12 +10,12 @@ async function writeCsvFiles() {
 
         db.start(header);
 
-        for (let file of files)
+        for (let file of files) {
             await processFile(header, file);
+        }
 
         postProcess();
-    }
-    catch(err) {
+    } catch(err) {
         console.warn(err);
     }
 }
